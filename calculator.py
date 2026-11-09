@@ -3,6 +3,10 @@ def add(a, b):
 
 def multiply(a, b):
     return a * b
+def divide(a, b):
+    return a / b
 
 print(add(10, 20))
 print(multiply(10, 20))
+print(divide(20, 10))
+
